@@ -1,4 +1,4 @@
-![header](https://github.com/LuneKal/LuneKal/blob/master/header.png)
+![header](https://github.com/LuneKal/LuneKal/blob/master/header2.png)
 
 # Hi, I'm Lune 👋
 I am a First Year Student at RIT! I am majoring in Computing Security.
